@@ -25,4 +25,4 @@ La configuración del debugger está apuntando a `src/throttle.ts` como el archi
 ```sh
 npm run test
 ```
-# FuncioMemoize
+
