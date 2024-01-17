@@ -1,0 +1,17 @@
+{
+  "transform": {
+    "^.+\\.tsx?$": "ts-jest"
+  },
+  "moduleFileExtensions": ["ts", "tsx", "js", "jsx", "json", "node"],
+<<<<<<< HEAD
+  "preset": "ts-jest/presets/js-with-ts",
+  "testEnvironment": "node"
+=======
+  "globals": {
+    "ts-jest": {
+      "tsconfig": "./tsconfig.json",
+      "module": "es6"
+    }
+  }
+>>>>>>> 2c1e05c3aaac7e41dbb24a878ae055bfcca92015
+}
